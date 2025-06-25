@@ -2,12 +2,12 @@
 
 Este é um projeto básico usando o framework Express.js, que roda sobre o Node.js e permite criar APIs e servidores web com facilidade.
 
-## 🚀 Tecnologias usadas
+##  Tecnologias usadas
 
 - Node.js
 - Express.js
 
-## ▶️ Como rodar
+##  Como rodar
 
 1. Instale as dependências:
 
