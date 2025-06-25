@@ -2,13 +2,13 @@
 
 Este é um projeto básico criado com o framework **Next.js**, que é baseado em React e oferece funcionalidades poderosas como renderização do lado do servidor (SSR), geração de páginas estáticas (SSG), roteamento automático e muito mais.
 
-## 🚀 Tecnologias usadas
+##  Tecnologias usadas
 
 - Next.js
 - React
 - Tailwind CSS (para estilização)
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 ```bash
 meu-site-next/
 ├── pages/
@@ -21,7 +21,7 @@ meu-site-next/
 └── README.md            # Este arquivo
 ```
 
-## ▶️ Como rodar localmente
+##  Como rodar localmente
 
 1. Clone o repositório ou crie o projeto:
 
@@ -61,12 +61,12 @@ npm run dev
 
 Abra no navegador: http://localhost:3000
 
-## 🌐 Roteamento automático
+##  Roteamento automático
 
 - `/` → Página inicial (`index.js`)
 - `/sobre` → Página de informações (`sobre.js`)
 
-## 🧠 Por que usar Next.js?
+##  Por que usar Next.js?
 
 | Recurso            | Benefício                                              |
 |--------------------|--------------------------------------------------------|
@@ -76,7 +76,7 @@ Abra no navegador: http://localhost:3000
 | Otimização de imagens | Carregamento mais rápido e automático               |
 | Integração com Vercel | Deploy super simples e gratuito                     |
 
-## 📦 Deploy com Vercel (opcional)
+##  Deploy com Vercel (opcional)
 
 Você pode implantar facilmente este projeto na plataforma gratuita da Vercel:
 
