@@ -1,0 +1,11 @@
+{
+  "name": "servidor-node",
+  "version": "1.0.0",
+  "description": "Servidor básico feito com Node.js puro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Érica",
+  "license": "ISC"
+}
