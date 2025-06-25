@@ -9,7 +9,7 @@ Este é um projeto básico criado com o framework **Next.js**, que é baseado em
 - Tailwind CSS (para estilização)
 
 ## 📁 Estrutura do Projeto
-
+```bash
 meu-site-next/
 ├── pages/
 │   ├── index.js         # Página inicial
@@ -19,6 +19,7 @@ meu-site-next/
 ├── tailwind.config.js   # Configuração do Tailwind
 ├── package.json         # Dependências do projeto
 └── README.md            # Este arquivo
+```
 
 ## ▶️ Como rodar localmente
 
@@ -84,6 +85,3 @@ Você pode implantar facilmente este projeto na plataforma gratuita da Vercel:
 3. Escolha o repositório com esse projeto
 4. Vercel detecta Next.js automaticamente e faz o deploy
 
-## ✨ Resultado
-
-Este projeto é ideal para iniciantes que desejam entender a estrutura e os benefícios do Next.js.
