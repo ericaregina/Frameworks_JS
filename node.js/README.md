@@ -2,12 +2,12 @@
 
 Este projeto demonstra um servidor HTTP criado com Node.js puro, sem frameworks.
 
-## 🚀 Tecnologias usadas
+##  Tecnologias usadas
 
 - Node.js (nativo)
 - Módulos: `http` e `fs`
 
-## ▶️ Como rodar
+##  Como rodar
 
 1. Instale o Node.js na sua máquina: https://nodejs.org/
 2. Execute o comando:
@@ -21,6 +21,6 @@ node server.js
 - `http://localhost:3000/` → Página inicial em HTML
 - `http://localhost:3000/sobre` → JSON com informações do projeto
 
-## 📚 Objetivo
+##  Objetivo
 
 Este projeto é uma introdução ao funcionamento do Node.js como servidor HTTP sem o uso de frameworks como Express.
