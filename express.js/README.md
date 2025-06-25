@@ -26,6 +26,3 @@ npm start
 - `GET /` → Retorna mensagem de boas-vindas
 - `GET /sobre` → Retorna JSON com nome do projeto e autora
 
-## 🧠 Objetivo
-
-Este projeto serve como base para entender como criar rotas simples com Express.js e responder com texto ou JSON.
