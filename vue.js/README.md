@@ -10,7 +10,7 @@ Este é um projeto básico criado com Vue.js 3 usando Vite como bundler e Tailwi
 
 ##  Como rodar o projeto
 
-```bash
+```
 npm install
 npm run dev
 Abra no navegador: http://localhost:5173/
